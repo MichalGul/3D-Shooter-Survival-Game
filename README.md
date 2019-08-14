@@ -3,4 +3,4 @@ Game made in Unity where you running around graveyard and hold your own against 
 
 ### Installation
 
-Download and unzip build/gameBuild.rar
+Download and unzip build : https://drive.google.com/open?id=1hjL8wE8tZnlOkcjB8ExHSs0zGUdF3tXF
